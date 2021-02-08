@@ -2,3 +2,4 @@
 -another line
 -second commit
 -hellos
+-demo component
